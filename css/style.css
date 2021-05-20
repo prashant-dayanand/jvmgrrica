@@ -12,4 +12,5 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
 
 .navigation {
   color: white;
+  border-bottom: 1px solid white;
 }
